@@ -1,5 +1,12 @@
+
 # Podcast-DIO
 Poddcast criado para o curso da DIO
+
+"Tecnologia Sem Medo: Bancos Digitais para a Melhor Idade"
+
+
+
+![Miguel_Figueiredo_Crie_uma_imagem_de_uma_senhora_entre_60_e_70_anos_c6c8893b-256d-44c6-8b39-7014ce82fef6 (1)](https://github.com/user-attachments/assets/0fbfd936-ed2f-4e1f-b15d-77b8369d48f2)
 
 
 Capa do PODCAST gerada pelo IMAGINE ART com o prompt:
